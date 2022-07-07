@@ -11,11 +11,16 @@ slug: ../learn-governance
 mechanism that allows it to evolve gracefully overtime at the ultimate behest of its assembled stakeholders. 
 The stated goal is to ensure that the majority of the stake can always command the network.
 
-:::caution Governance Model Iterations
+## History
 
-The contents in this guide are subject to change as the protocol evolves.  This section covers the latest iteration, Governance v2.  If you are looking for details on the previous v1 iteration, they can be found [here](learn-governance-v1).
+The original governance model (v1) was designed to preserve the core tenet that a majority of stake can command the network and ensured the teams working on the core development of Polkadot could deliver the promises outlined in the [Polkadot paper](https://polkadot.network/PolkaDotPaper.pdf) in a gradual manner.
 
-:::
+The governance v2 further improves the decentralised nature of the model in the following ways:
+1) Migrating all resoponsibilities of Council to token holders via democracy votes
+2) Dissolves the current Council collective
+3) Allows user to delegate voting power in more ways to community members.
+
+...
 
 To do this, the network brings together various novel mechanisms, including an amorphous state-transition
 function stored on-chain and defined in a platform-neutral intermediate language (i.e.
