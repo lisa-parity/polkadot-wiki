@@ -1,19 +1,20 @@
 ---
-id: learn-governance
-title: Governance
-sidebar_label: Governance
-description: Learn about Polkadot's latest governance model.
-keywords: [governance, v2, referenda, proposal, voting, endorse]
-slug: ../learn-governance
+id: learn-governance-v1
+title: Governance v1
+sidebar_label: Governance v1
+description: Learn about Polkadot's v1 governance model.
+keywords: [governance, v1, referenda, proposal, voting, endorse]
+slug: ../learn-governance-v1
 ---
 
 {{ polkadot: Polkadot :polkadot }}{{ kusama: Kusama :kusama }} uses a sophisticated governance 
 mechanism that allows it to evolve gracefully overtime at the ultimate behest of its assembled stakeholders. 
 The stated goal is to ensure that the majority of the stake can always command the network.
 
-:::caution Governance Model Iterations
+:::caution Upcoming governance changes
 
-The contents in this guide are subject to change as the protocol evolves.  This section covers the latest iteration, Governance v2.  If you are looking for details on the previous v1 iteration, they can be found [here](learn-governance-v1).
+This content refers to the v1 governance model.  The second iteration of the governance model, [Governance v2](learn-governance), has been
+released and is considered the latest model.  Both models will continue to live side-by-side for the time being.
 
 :::
 
